@@ -18,7 +18,7 @@
   <summary>:zap: Preview of Programing Coursework at UT 🤘 (repos are public but not linked, find manually)</summary>
   
 <!--START_SECTION:activity-->
-1. CS 313E 
+1. [CS 313E] 
 2. MIS 333K
 <!--END_SECTION:activity-->
 </details>
@@ -55,6 +55,7 @@
 
 ---
 
+[CS 313E]:  https://github.com/KodeByKalab/Elements-of-Software-Design
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
