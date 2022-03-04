@@ -6,16 +6,16 @@
 ## I'm a Developer, NFT/DAPP enthusiast, and Student!!
 
 <details>
-  <summary>:zap: I’m currently working on two blockchain projects (repos will be made public soon!)</summary>
+  <summary>:zap: I’m currently working on two blockchain projects</summary>
   
 <!--START_SECTION:activity-->
 1. Plutarix - NFT Student Athlete Trading DApp/Web3
-2. vintageDAO - Decentralized Autonomous Organization focused on sustainability
+2. [vintageDAO] - Decentralized Autonomous Organization focused on sustainability
 <!--END_SECTION:activity-->
 
 </details>
 <details>
-  <summary>:zap: Preview of Programing Coursework at UT 🤘 (repos are public but not linked, find manually)</summary>
+  <summary>:zap: Preview of Programing Coursework at UT 🤘 </summary>
   
 <!--START_SECTION:activity-->
 1. [CS 313E] 
@@ -52,5 +52,6 @@
 
 ---
 
+[vintageDAO]: https://github.com/KodeByKalab/vintageDAO
 [CS 313E]:  https://github.com/KodeByKalab/Elements-of-Software-Design
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
