@@ -52,6 +52,6 @@
 
 ---
 
-[vintageDAO]: https://github.com/KodeByKalab/vintageDAO
+[vintageDAO]: https://github.com/KodeByKalab/nft-mix
 [CS 313E]:  https://github.com/KodeByKalab/Elements-of-Software-Design
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
