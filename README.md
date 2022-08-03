@@ -6,11 +6,10 @@
 ## I'm a Developer, NFT/DAPP enthusiast, and Student!!
 
 <details>
-  <summary>:zap: I’m currently working on two blockchain projects</summary>
+  <summary>:zap: I’m currently working on blockchain projects</summary>
   
 <!--START_SECTION:activity-->
-1. Plutarix - NFT Student Athlete Trading DApp/Web3
-2. [vintageDAO] - Decentralized Autonomous Organization focused on sustainability
+1. 
 <!--END_SECTION:activity-->
 
 </details>
