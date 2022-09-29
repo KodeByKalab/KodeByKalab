@@ -20,9 +20,9 @@
 <!--START_SECTION:activity-->
 1. [Elements of Software Design (CS 313E)] 
 2. Elements of Software Engineering I (CS 330E)
-3. Web Application Devlepment MIS 333K
-4. Database Management MIS 325
-5. IT AUDIT & SECURITY MIS 373
+3. [Web Application Devlepment (MIS 333K)]
+4. Database Management (MIS 325)
+5. IT AUDIT & SECURITY (MIS 373)
 <!--END_SECTION:activity-->
 </details>
 
@@ -51,4 +51,5 @@
 
 ---
 [Elements of Software Design (CS 313E)]:  https://github.com/KodeByKalab/Elements-of-Software-Design
+[Web Application Devlepment MIS 333K]: https://github.com/mis333k-spr22
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
