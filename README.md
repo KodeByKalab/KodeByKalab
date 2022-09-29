@@ -26,10 +26,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-- 👯 I’m looking to collaborate with other blockchain engineers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play soccer and run / surf
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -55,6 +51,6 @@
 
 ---
 
-[vintageDAO]: https://github.com/KodeByKalab/nft-mix
+[vintageDAO]: 
 [Elements of Software Design (CS 313E)]:  https://github.com/KodeByKalab/Elements-of-Software-Design
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
