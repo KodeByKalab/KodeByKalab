@@ -51,5 +51,5 @@
 
 ---
 [Elements of Software Design (CS 313E)]:  https://github.com/KodeByKalab/Elements-of-Software-Design
-[Web Application Devlepment MIS 333K]: https://github.com/mis333k-spr22
+[Web Application Devlepment (MIS 333K)]: https://github.com/mis333k-spr22
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
