@@ -18,7 +18,7 @@
   <summary>:zap: Preview of Programing Coursework at UT. (Some repos are private. Contact me directly if you want access) 🤘 </summary>
   
 <!--START_SECTION:activity-->
-1.[Elements of Software Design (CS 313E)] 
+1. [Elements of Software Design (CS 313E)] 
 2. Elements of Software Engineering I (CS 330E)
 3. Web Application Devlepment MIS 333K
 4. Database Management MIS 325
