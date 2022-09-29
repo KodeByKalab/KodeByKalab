@@ -9,7 +9,7 @@
   <summary>:zap: I’m currently working on blockchain projects (Some repos are private. Contact me directly if you want access)</summary>
   
 <!--START_SECTION:activity-->
-1. Perped
+1. [Perped (DEX for perpetuals trading)]
 2. VintageDAO
 <!--END_SECTION:activity-->
 
@@ -50,6 +50,7 @@
 <br />
 
 ---
+[Perped (DEX for perpetuals trading)]: https://github.com/KodeByKalab/gmx-interface/blob/master/README.md
 [Elements of Software Design (CS 313E)]:  https://github.com/KodeByKalab/Elements-of-Software-Design
 [Web Application Devlepment (MIS 333K)]: https://github.com/mis333k-spr22
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
