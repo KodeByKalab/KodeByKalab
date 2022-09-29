@@ -1,9 +1,9 @@
 ### Hi there, I'm Kalab - aka [KodeByKalab] 👋 
 
-[![Website](https://img.shields.io/website?label=KodeByKalab.com&style=for-the-badge&url=https%3A%2F%2FKodeByKalab.com)](https://KodeByKalab.com)
+[![Website](https://img.shields.io/website?label=kalab44.azurewebsites.net&style=for-the-badge&url=https%3A%2F%2Fkalab44.azurewebsites.net)](kalab44.azurewebsites.net/)
 
 
-## I'm a Developer, NFT/DAPP enthusiast, and Student!!
+## I'm a Blockchain Engineer/PM, Web3/DAPP enthusiast, and Student!
 
 <details>
   <summary>:zap: I’m currently working on blockchain projects (Some repos are private. Contact me directly if you want access)</summary>
