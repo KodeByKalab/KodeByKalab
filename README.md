@@ -6,19 +6,23 @@
 ## I'm a Developer, NFT/DAPP enthusiast, and Student!!
 
 <details>
-  <summary>:zap: I’m currently working on blockchain projects</summary>
+  <summary>:zap: I’m currently working on blockchain projects (Some repos are private. Contact me directly if you want access)</summary>
   
 <!--START_SECTION:activity-->
-1. 
+1. Perped
+2. VintageDAO
 <!--END_SECTION:activity-->
 
 </details>
 <details>
-  <summary>:zap: Preview of Programing Coursework at UT 🤘 </summary>
+  <summary>:zap: Preview of Programing Coursework at UT. (Some repos are private. Contact me directly if you want access) 🤘 </summary>
   
 <!--START_SECTION:activity-->
-1. [CS 313E] 
-2. MIS 333K
+1. [Elements of Software Design (CS 313E)] 
+2. Elements of Software Engineering I (CS 330E)
+3. Web Application Devlepment MIS 333K
+4. Database Management MIS 325
+5. IT AUDIT & SECURITY MIS 373
 <!--END_SECTION:activity-->
 </details>
 
@@ -52,5 +56,5 @@
 ---
 
 [vintageDAO]: https://github.com/KodeByKalab/nft-mix
-[CS 313E]:  https://github.com/KodeByKalab/Elements-of-Software-Design
+[Elements of Software Design (CS 313E)]:  https://github.com/KodeByKalab/Elements-of-Software-Design
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
