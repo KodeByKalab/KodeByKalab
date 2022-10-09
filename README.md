@@ -1,28 +1,29 @@
 ### Hi there, I'm Kalab - aka [KodeByKalab] 👋 
 
-[![Website](https://img.shields.io/website?label=kalab44.azurewebsites.net&style=for-the-badge&url=https%3A%2F%2Fkalab44.azurewebsites.net)](kalab44.azurewebsites.net/)
+[![Website](https://img.shields.io/website?label=Personal.Website&style=for-the-badge&url=https%3A%2F%2Fkalab44.azurewebsites.net)](kalab44.azurewebsites.net/) [![Website](https://img.shields.io/website?label=gitlab-KalabsKode&style=for-the-badge&url=https%3A%2F%2Fkalab44.azurewebsites.net)](https://gitlab.com/KalabsKode)
+
 
 
 ## I'm a Blockchain Engineer/PM, Web3/DAPP enthusiast, and Student!
 
-<details>
-  <summary>:zap: I’m currently working on blockchain projects (Some repos are private. Contact me directly if you want access)</summary>
-  
-<!--START_SECTION:activity-->
+### Recent Blockchain Projects:
+
 1. [Perped (DEX for perpetuals trading)]
-2. VintageDAO
-<!--END_SECTION:activity-->
+2. [BridXe (A "phydigital" Marketplace)]
+3. VintageDAO*
+
 
 </details>
 <details>
-  <summary>:zap: Preview of Programing Coursework at UT. (Some repos are private. Contact me directly if you want access) 🤘 </summary>
+  <summary>🤘Preview of Programing Coursework at UT. 
+</summary>
   
 <!--START_SECTION:activity-->
 1. [Elements of Software Design (CS 313E)] 
-2. Elements of Software Engineering I (CS 330E)
+2. [Elements of Software Engineering I (CS 330E)]
 3. [Web Application Devlepment (MIS 333K)]
-4. Database Management (MIS 325)
-5. IT AUDIT & SECURITY (MIS 373)
+4. Database Management (MIS 325)*
+5. IT AUDIT & SECURITY (MIS 373)*
 <!--END_SECTION:activity-->
 </details>
 
@@ -47,10 +48,14 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 
 <br />
+*These repositiories might be private per the professor's request and for privacy reasons. Contact me directly if you want access or to learn more about a specific experience
 <br />
 
 ---
-[Perped (DEX for perpetuals trading)]: https://github.com/KodeByKalab/gmx-interface/blob/master/README.md
+[Perped (DEX for perpetuals trading)]: https://github.com/KodeByKalab/Perped-DEX/blob/main/README.md
+[BridXe (A "phydigital" Marketplace)]: https://github.com/KodeByKalab/Prototype-BridXe-Frontend/blob/main/README.md
+[Elements of Software Engineering I (CS 330E)]: https://gitlab.com/users/KalabsKode/projects
 [Elements of Software Design (CS 313E)]:  https://github.com/KodeByKalab/Elements-of-Software-Design
 [Web Application Devlepment (MIS 333K)]: https://github.com/mis333k-spr22
 [linkedin]: https://www.linkedin.com/in/kalabalemu/
+[KodeByKalab]: https://github.com/KodeByKalab
