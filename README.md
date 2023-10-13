@@ -10,7 +10,7 @@
 
 1. [Perped (DEX for perpetuals trading)]
 2. [BridXe (A "phydigital" Marketplace)]
-3. VintageDAO*
+
 
 
 </details>
