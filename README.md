@@ -2,26 +2,20 @@
 
 [![Website](https://img.shields.io/website?label=Personal.Website&style=for-the-badge&url=https%3A%2F%2Fkalab44.azurewebsites.net)](kalab44.azurewebsites.net/) [![Website](https://img.shields.io/website?label=gitlab-KalabsKode&style=for-the-badge&url=https%3A%2F%2Fkalab44.azurewebsites.net)](https://gitlab.com/KalabsKode)
 
-
-
-## I'm a Blockchain Engineer/PM, Web3/DAPP enthusiast, and Student!
-
 ### Recent Blockchain Projects:
 
-1. [Perped (DEX for perpetuals trading)]
-2. [BridXe (A "phydigital" Marketplace)]
-
-
+1. Perped (DEX for perpetuals trading)
+2. BridXe (A "phydigital" Marketplace)
 
 </details>
 <details>
-  <summary>🤘Preview of Programing Coursework at UT. 
+  <summary>🤘Preview of Programing Coursework at UT Austin. 
 </summary>
   
 <!--START_SECTION:activity-->
-1. [Elements of Software Design (CS 313E)] 
-2. [Elements of Software Engineering I (CS 330E)]
-3. [Web Application Devlepment (MIS 333K)]
+1. Elements of Software Design (CS 313E)
+2. Elements of Software Engineering I (CS 330E)
+3. Web Application Devlepment (MIS 333K)
 4. Database Management (MIS 325)*
 5. IT AUDIT & SECURITY (MIS 373)*
 <!--END_SECTION:activity-->
@@ -52,10 +46,4 @@
 <br />
 
 ---
-[Perped (DEX for perpetuals trading)]: https://github.com/KodeByKalab/Perped-DEX/blob/main/README.md
-[BridXe (A "phydigital" Marketplace)]: https://github.com/KodeByKalab/Prototype-BridXe-Frontend/blob/main/README.md
-[Elements of Software Engineering I (CS 330E)]: https://gitlab.com/users/KalabsKode/projects
-[Elements of Software Design (CS 313E)]:  https://github.com/KodeByKalab/Elements-of-Software-Design
-[Web Application Devlepment (MIS 333K)]: https://github.com/mis333k-spr22
-[linkedin]: https://www.linkedin.com/in/kalabalemu/
 [KodeByKalab]: https://github.com/KodeByKalab
