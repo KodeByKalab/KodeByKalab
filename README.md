@@ -41,9 +41,5 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 
-<br />
-*These repositiories might be private per the professor's request and for privacy reasons. Contact me directly if you want access or to learn more about a specific experience
-<br />
-
 ---
 [KodeByKalab]: https://github.com/KodeByKalab
