@@ -43,3 +43,4 @@
 
 ---
 [KodeByKalab]: https://github.com/KodeByKalab
+[linkedin]: https://www.linkedin.com/in/kalabalemu/
